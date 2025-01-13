@@ -110,7 +110,7 @@ Cloth-Size-Prediction/
 ---
 
 ## Documentation and Resources
-- **Presentation Deck:** [Canva Cloth Size Presentation](https://www.canva.com/design/DAFx9r53zes/XoIlXjV4QUuI5yxpIoUVMw/view?utm_content=DAFx9r53zes&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h38437c0df9)
+- **Presentation Deck:** [Canva Cloth Size Presentation](https://www.canva.com/design/DAFxDakLQYg/7QCVOEd1JRUxEAt99jz0rQ/view?utm_content=DAFxDakLQYg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he26f162965)
 - **Exploratory Notebooks:** Jupyter notebooks detailing data exploration and modeling steps are available in the `notebooks/` folder.
 - **Technical Reports:** Additional findings and documentation are in the `docs/` folder.
 
